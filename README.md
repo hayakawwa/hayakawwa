@@ -5,7 +5,7 @@ Frontend Developer from Ekaterinburg 🥶
 
 I am studying in the 3rd year at UrFU
 
-I create applications using **[Typescript](https://www.typescriptlang.org/)**
+I create applications using **[TypeScript](https://www.typescriptlang.org/)**
 
 <br/>
 
@@ -19,13 +19,13 @@ I create applications using **[Typescript](https://www.typescriptlang.org/)**
       <a href="#hayakawwa_stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
       </a>
-      <br>Javascript
+      <br>JavaScript
     </td>
     <td align="center" width="110" height="90">
       <a href="#hayakawwa_stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
       </a>
-      <br>Typescript
+      <br>TypeScript
     </td>
         <td align="center" width="110" height="90">
       <a href="#hayakawwa_stack">
