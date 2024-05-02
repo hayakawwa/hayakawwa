@@ -160,4 +160,3 @@ I create applications using **[Typescript](https://www.typescriptlang.org/)**
 - :bird: &nbsp;**[Telegram](https://t.me/yyaarikkkk)**
 - :octocat: &nbsp;**[Github](https://github.com/hayakawwa)**
 
-<br>
