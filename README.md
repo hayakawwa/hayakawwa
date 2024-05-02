@@ -9,7 +9,7 @@ I create applications using **[Typescript](https://www.typescriptlang.org/)**
 
 <br/>
 
-<h2 align="left" id="hayakawwa-stack">🔥 Tech stack</h2>
+<h2 align="left" id="hayakawwa-stack">:snowflake: Tech stack</h2>
 
 > General
 
@@ -19,31 +19,31 @@ I create applications using **[Typescript](https://www.typescriptlang.org/)**
       <a href="#hayakawwa_stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
       </a>
-      <br>javascript
+      <br>Javascript
     </td>
     <td align="center" width="110" height="90">
       <a href="#hayakawwa_stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
       </a>
-      <br>typescript
+      <br>Typescript
     </td>
         <td align="center" width="110" height="90">
       <a href="#hayakawwa_stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
       </a>
-      <br>Html5
+      <br>HTML5
     </td>
          <td align="center" width="110" height="90"> 
       <a href="#hayakawwa_stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
       </a>
-      <br>Css3
+      <br>CSS3
     </td>
     <td align="center" width="110" height="90">
       <a href="#hayakawwa_stack" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
       </a>
-      <br>figma
+      <br>Figma
     </td>
     <td align="center" width="110" height="90">
       <a href="#hayakawwa_stack">
