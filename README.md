@@ -1,4 +1,4 @@
-<img src="https://github.com/hayakawwa/hayakawwa/raw/master/Шапка.png" alt="header" align="center"/>
+<img src="https://github.com/hayakawwa/hayakawwa/raw/main/Шапка.png" alt="header" align="center"/>
 
 
 <h1 align="left">:wave: Hello there! I'm Roman Labzin</h1>
