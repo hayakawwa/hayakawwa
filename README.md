@@ -158,9 +158,3 @@ I create applications using **[TypeScript](https://www.typescriptlang.org/)**
 
 <br/>
 
-## :calling: Contact
-
-- :bird: &nbsp;**[Telegram](https://t.me/yyaarikkkk)**
-- :octocat: &nbsp;**[Github](https://github.com/hayakawwa)**
-
-
