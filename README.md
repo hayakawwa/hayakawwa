@@ -6,8 +6,6 @@
 
 Frontend Developer from Ekaterinburg 🥶
 
-I'm studying in the 3rd year at UrFU
-
 I create applications using **[TypeScript](https://www.typescriptlang.org/)**
 
 <br/>
